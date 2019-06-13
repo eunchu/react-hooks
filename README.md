@@ -5,7 +5,8 @@ react hooks
 - [x] useInput
 - [x] useTabs
 - [x] useTitle
-- [ ] useClick
+- [x] useClick
+- [ ] useHover
 - [ ] usePageLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
