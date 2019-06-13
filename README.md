@@ -6,7 +6,7 @@ react hooks
 - [x] useTabs
 - [x] useTitle
 - [x] useClick
-- [ ] useHover
+- [x] useHover
 - [ ] usePageLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
