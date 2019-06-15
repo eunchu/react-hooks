@@ -10,9 +10,9 @@ react hooks
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
-- [ ] useFadeIn
-- [ ] useFullscreen
+- [x] useFadeIn
 - [ ] useNetwork
+- [ ] useFullscreen
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useAxios
