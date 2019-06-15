@@ -9,7 +9,7 @@ react hooks
 - [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave
-- [ ] usePageLeave
+- [x] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
 - [ ] useNetwork
