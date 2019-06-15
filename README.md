@@ -11,7 +11,7 @@ react hooks
 - [x] usePreventLeave
 - [x] useBeforeLeave
 - [x] useFadeIn
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useFullscreen
 - [ ] useNotification
 - [ ] useScroll
