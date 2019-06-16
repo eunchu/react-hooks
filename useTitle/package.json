@@ -1,0 +1,29 @@
+{
+  "name": "@jhooks/use-title",
+  "version": "1.0.0",
+  "description": "React hook to update your document's title!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunchu/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title",
+    "eunchu"
+  ],
+  "author": "Eunju.b <https://github.com/eunchu/react-hooks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eunchu/react-hooks/issues"
+  },
+  "homepage": "https://github.com/eunchu/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

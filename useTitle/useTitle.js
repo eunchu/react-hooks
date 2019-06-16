@@ -1,6 +1,8 @@
+import { useState, useEffect } from "react";
+
 /**
- * 
- * @param {String} initialTitle 
+ *
+ * @param {String} initialTitle
  */
 export const useTitle = initialTitle => {
   const [title, setTitle] = useState(initialTitle);

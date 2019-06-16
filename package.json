@@ -1,8 +1,8 @@
 {
-  "name": "react-hooks",
+  "name": "@hooks/use-title",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -27,5 +27,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "react hooks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunchu/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title",
+    "eunchu"
+  ],
+  "author": "Eunju.b <eun.juuu0@gamil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eunchu/react-hooks/issues"
+  },
+  "homepage": "https://github.com/eunchu/react-hooks#readme"
 }
